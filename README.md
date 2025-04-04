@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a bioinformatics researcher passionate about human genetics and its mechanisms. I develop workflows for high-throughput sequencing data and explore innovative ways to analyse biological data.
+I'm a bioinformatics researcher passionate about human genetics and infectious disease mechanisms. I develop workflows for high-throughput sequencing data and explore innovative ways to analyse biological data.
 
 ## 🔬 Research Interests
 - Human Genetics
