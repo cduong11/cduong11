@@ -12,14 +12,6 @@ I'm a bioinformatics researcher passionate about human-pathogens interactions. I
 - **pathogen evolution**: Tracking genetic changes in emerging infectious diseases
 - **host-pathogen interactions**: Identifying key molecular mechanisms of infection
 - **genomic epidemiology**: Using genomics to understand disease transmission networks
-  
-## 🔬 expertise & technical skills
-
-- 🧬 NGS Analysis
-- 📊 Workflow Management
-- 🦠 Pathogen Genomics
-- 🔍 R & Bioconductor 
-- 📈 Python & Biopython
 
 ## 🔗 let's connect
 
