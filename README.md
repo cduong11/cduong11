@@ -23,8 +23,6 @@ I'm a bioinformatics researcher passionate about human-pathogens interactions. I
   <a href="https://github.com/reichan1998"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## 📊 github stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reichan1998&show_icons=true&theme=merko" alt="GitHub Stats" />
 </div>
