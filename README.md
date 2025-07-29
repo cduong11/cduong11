@@ -26,5 +26,5 @@ I'm a bioinformatics researcher passionate about human-pathogen interactions. I 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reichan1998&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cduong11&color=brightgreen" alt="Profile Views" />
 </div>
