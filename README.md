@@ -20,7 +20,7 @@ I'm a bioinformatics researcher passionate about human-pathogen interactions. I 
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reichan1998&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cduong11&show_icons=true&theme=merko" alt="GitHub Stats" />
 </div>
 
 ---
